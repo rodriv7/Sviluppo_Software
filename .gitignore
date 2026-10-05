@@ -1,0 +1,5 @@
+*.o
+*.log
+build/
+.env
+!keep_this_file.o
